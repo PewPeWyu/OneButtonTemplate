@@ -1,8 +1,9 @@
 {
-    "name": "OneButtonTemplate",
+    "name": "OneButtonTemplate - Copy",
     "description": "",
     "dependencies": {
-        "device": "*"
+        "device": "*",
+        "animation": "*"
     },
     "files": [
         "main.blocks",
